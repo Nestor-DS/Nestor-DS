@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nestor 👋</h1> 
 
-I'm a passionate software development with a love for developer mobile.. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and some insights into my coding journey.
+I'm a passionate software development with a love for developer mobile.. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and some insights into my coding journey. 👾
 
 ## 📫 How to reach me
 
@@ -12,15 +12,11 @@ I'm a passionate software development with a love for developer mobile.. Welcome
 
 I'm proficient in a variety of programming languages and tools, including but not limited to:
 
-## 🔧 Technologies & Tools
-
-I'm proficient in a variety of programming languages and tools, including but not limited to:
-
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
   <!-- Programming Languages -->
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <h2>Programming Languages</h2>
+    <h2>💻 Programming Languages</h2>
     <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
     <img src="https://img.shields.io/badge/Java-%23007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
     <img src="https://img.shields.io/badge/SQL-%23000000?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge" />
@@ -31,13 +27,13 @@ I'm proficient in a variety of programming languages and tools, including but no
 
   <!-- Frameworks -->
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <h2>Frameworks</h2>
+    <h2>🛠️ Frameworks</h2>
     <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge" />
   </div>
 
   <!-- Tools -->
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <h2>Tools</h2>
+    <h2>⚙️ Tools</h2>
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
     <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
     <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio Badge" />
