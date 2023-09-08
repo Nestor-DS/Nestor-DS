@@ -45,15 +45,15 @@ I'm proficient in a variety of programming languages and tools, including but no
 
 
 
-## 💼 My Work
+<!--## 💼 My Work
 
 ### Project 1: Project Name
 
-![Project 1 Image](https://github.com/Nestor-DS/Nestor-DS/blob/main/assets/78669277/d09ce518-1ad2-43d7-a26d-d8339d155c78.png) <!-- Replace 'image_link_here' with the URL of your project image -->
+![Project 1 Image](https://github.com/Nestor-DS/Nestor-DS/blob/main/assets/78669277/d09ce518-1ad2-43d7-a26d-d8339d155c78.png) 
 
 - Description: Briefly describe what the project is about.
 - Repository: [Link to Project 1 Repo](https://github.com/yourusername/project1)
-- Demo: [Link to Project 1 Demo](https://project1-demo.com) <!-- Optional, if applicable -->
+- Demo: [Link to Project 1 Demo](https://project1-demo.com)
 - Technologies used: List the key technologies used in this project.
 
 ### Project 2: Project Name
@@ -74,7 +74,7 @@ I'm proficient in a variety of programming languages and tools, including but no
 - Demo: [Link to Project 3 Demo](https://project3-demo.com)
 - Technologies used: List the key technologies used in this project.
 
-Feel free to explore my repositories to see more of my work!
+Feel free to explore my repositories to see more of my work!-->
 
 
 ## 🌱 I'm Currently Learning
