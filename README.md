@@ -47,7 +47,7 @@ I'm proficient in a variety of programming languages and tools, including but no
 
 ## 💼 My Work
 
-### Project 1: FindApp
+### Project 1: FindApp 🗺️
 
 [![Alt text](https://img.youtube.com/vi/r0F0fz4JfRk/0.jpg)](https://www.youtube.com/watch?v=r0F0fz4JfRk)
 
@@ -63,7 +63,7 @@ I'm proficient in a variety of programming languages and tools, including but no
   [![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-SDK-brightgreen.svg)](https://developers.google.com/maps)
 
 
-### Project 2: Sentiment Analysis in Movie Reviews
+### Project 2: Sentiment Analysis in Movie Reviews 📽️😄👀
 
 - Description: This project, "Sentiment Analysis in Movie Reviews" utilizes the "IMDB Dataset of 50K Movie Reviews" to perform various analyses on movie reviews. It covers tasks such as counting different types of words, finding the most common words, summarizing text, analyzing word frequency distributions, and identifying adjectives in both positive and negative reviews. Additionally, it explores the length distribution of reviews and provides graphical insights to understand language patterns and sentiment in movie opinions.
 - Repository: [Link to Project 1 Repo](https://github.com/Nestor-DS/FindApp)
