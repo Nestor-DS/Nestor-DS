@@ -45,36 +45,23 @@ I'm proficient in a variety of programming languages and tools, including but no
 
 
 
-<!--## 💼 My Work
+## 💼 My Work
 
 ### Project 1: Project Name
 
 ![Project 1 Image](https://github.com/Nestor-DS/Nestor-DS/blob/main/assets/78669277/d09ce518-1ad2-43d7-a26d-d8339d155c78.png) 
 
 - Description: Briefly describe what the project is about.
-- Repository: [Link to Project 1 Repo](https://github.com/yourusername/project1)
-- Demo: [Link to Project 1 Demo](https://project1-demo.com)
-- Technologies used: List the key technologies used in this project.
+- Repository: [Link to Project 1 Repo](https://github.com/Nestor-DS/FindApp)
+- Technologies used:
+  <div>
+    <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
+    <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
+    <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio Badge" />
+    <img src="https://img.shields.io/badge/Android-%233DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Badge" />
+  </div>
 
-### Project 2: Project Name
-
-![Project 2 Image](https://github.com/Nestor-DS/Nestor-DS/blob/main/assets/78669277/d09ce518-1ad2-43d7-a26d-d8339d155c78.png)
-
-- Description: Briefly describe what the project is about.
-- Repository: [Link to Project 2 Repo](https://github.com/yourusername/project2)
-- Demo: [Link to Project 2 Demo](https://project2-demo.com)
-- Technologies used: List the key technologies used in this project.
-
-### Project 3: Project Name
-
-![Project 3 Image](https://github.com/Nestor-DS/Nestor-DS/blob/main/assets/78669277/d09ce518-1ad2-43d7-a26d-d8339d155c78.png)
-
-- Description: Briefly describe what the project is about.
-- Repository: [Link to Project 3 Repo](https://github.com/yourusername/project3)
-- Demo: [Link to Project 3 Demo](https://project3-demo.com)
-- Technologies used: List the key technologies used in this project.
-
-Feel free to explore my repositories to see more of my work!-->
+Feel free to explore my repositories to see more of my work!
 
 
 ## 🌱 I'm Currently Learning
