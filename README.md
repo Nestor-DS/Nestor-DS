@@ -47,11 +47,11 @@ I'm proficient in a variety of programming languages and tools, including but no
 
 ## 💼 My Work
 
-### Project 1: Project Name
+### Project 1: FindApp
 
-![Project 1 Image](https://github.com/Nestor-DS/Nestor-DS/blob/main/assets/78669277/d09ce518-1ad2-43d7-a26d-d8339d155c78.png) 
+[![Alt text](https://img.youtube.com/vi/r0F0fz4JfRk/0.jpg)](https://www.youtube.com/watch?v=r0F0fz4JfRk)
 
-- Description: Briefly describe what the project is about.
+- Description: FindApp is designed so you can securely register your personal data, enjoy quick fingerprint access, obtain the location of a device and keep your loved ones informed in emergency situations..
 - Repository: [Link to Project 1 Repo](https://github.com/Nestor-DS/FindApp)
 - Technologies used:
   <div>
