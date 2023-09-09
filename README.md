@@ -51,15 +51,32 @@ I'm proficient in a variety of programming languages and tools, including but no
 
 [![Alt text](https://img.youtube.com/vi/r0F0fz4JfRk/0.jpg)](https://www.youtube.com/watch?v=r0F0fz4JfRk)
 
-- Description: FindApp is designed so you can securely register your personal data, enjoy quick fingerprint access, obtain the location of a device and keep your loved ones informed in emergency situations..
+- Description: FindApp is designed so you can securely register your personal data, enjoy quick fingerprint access, obtain the location of a device and keep your loved ones informed in emergency situations.
 - Repository: [Link to Project 1 Repo](https://github.com/Nestor-DS/FindApp)
 - Technologies used:
-  <div>
-    <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
-    <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
-    <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio Badge" />
-    <img src="https://img.shields.io/badge/Android-%233DDC84?style=flat-square&logo=android&logoColor=white" alt="Android Badge" />
-  </div>
+- 
+  [![Kotlin Badge](https://img.shields.io/badge/Kotlin-1.5.31-blue.svg)](https://kotlinlang.org/)
+  [![Android Badge](https://img.shields.io/badge/Android-10%2B-green.svg)](https://developer.android.com/)
+  [![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-4.2.2-orange.svg)](https://developer.android.com/studio)
+  [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/)
+  [![Google Services Badge](https://img.shields.io/badge/Google%20Services-Latest-blue.svg)](https://developers.google.com/services)
+  [![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-SDK-brightgreen.svg)](https://developers.google.com/maps)
+
+
+### Project 2: Sentiment Analysis in Movie Reviews
+
+- Description: This project, "Sentiment Analysis in Movie Reviews" utilizes the "IMDB Dataset of 50K Movie Reviews" to perform various analyses on movie reviews. It covers tasks such as counting different types of words, finding the most common words, summarizing text, analyzing word frequency distributions, and identifying adjectives in both positive and negative reviews. Additionally, it explores the length distribution of reviews and provides graphical insights to understand language patterns and sentiment in movie opinions.
+- Repository: [Link to Project 1 Repo](https://github.com/Nestor-DS/FindApp)
+- Technologies used:
+
+    [![Python Badge](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue.svg)](https://www.python.org/)
+    [![Jupyter Badge](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
+    [![Pandas Badge](https://img.shields.io/badge/Pandas-1.3.3-brightgreen.svg)](https://pandas.pydata.org/)
+    [![NLTK Badge](https://img.shields.io/badge/NLTK-3.6.3-yellowgreen.svg)](https://www.nltk.org/)
+    [![spaCy Badge](https://img.shields.io/badge/spaCy-3.0.6-blue.svg)](https://spacy.io/)
+    [![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-3.4.3-orange.svg)](https://matplotlib.org/)
+    [![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-0.24.2-yellowgreen.svg)](https://scikit-learn.org/stable/)
+
 
 Feel free to explore my repositories to see more of my work!
 
