@@ -66,7 +66,7 @@ I'm proficient in a variety of programming languages and tools, including but no
 ### Project 2: Sentiment Analysis in Movie Reviews 📽️😄👀
 
 - Description: This project, "Sentiment Analysis in Movie Reviews" utilizes the "IMDB Dataset of 50K Movie Reviews" to perform various analyses on movie reviews. It covers tasks such as counting different types of words, finding the most common words, summarizing text, analyzing word frequency distributions, and identifying adjectives in both positive and negative reviews. Additionally, it explores the length distribution of reviews and provides graphical insights to understand language patterns and sentiment in movie opinions.
-- Repository: [Link to Project 1 Repo](https://github.com/Nestor-DS/FindApp)
+- Repository: [Link to Project 2 Repo](https://github.com/Nestor-DS/Analisis-de-Sentimientos-en-criticas-de-peliculas)
 - Technologies used:
 
     [![Python Badge](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue.svg)](https://www.python.org/)
