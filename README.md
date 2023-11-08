@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nestor 👋</h1> 
-<!--
+
 I'm a passionate software development with a love for developer mobile. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and some insights into my coding journey. 👾
 
 ## 📫 How to reach me
@@ -98,8 +98,6 @@ I'm always open to collaboration and interesting projects. If you have an idea o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestor-DS&layout=compact&theme=dark" width="50%" />
 </div>
 
-
--->
 
 <!-- Optional: Add more custom badges or sections here -->
 
