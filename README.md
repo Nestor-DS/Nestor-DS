@@ -44,7 +44,7 @@ I'm proficient in a variety of programming languages and tools, including but no
 </div>
 
 
-
+<!--
 ## 💼 My Work
 
 ### Project 1: FindApp 🗺️
@@ -61,7 +61,7 @@ I'm proficient in a variety of programming languages and tools, including but no
   [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/)
   [![Google Services Badge](https://img.shields.io/badge/Google%20Services-Latest-blue.svg)](https://developers.google.com/services)
   [![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-SDK-brightgreen.svg)](https://developers.google.com/maps)
-
+-->
 
 ### Project 2: Sentiment Analysis in Movie Reviews 📽️😄👀
 
