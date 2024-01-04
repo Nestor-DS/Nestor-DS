@@ -1,22 +1,24 @@
-<h1 align="center">Hi there, I'm Nestor 👋</h1> 
+# Página de Link-Bio con Reflex
 
-I'm a passionate software development with a love for developer mobile. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and some insights into my coding journey. 👾
+<h1 align="center">¡Hola, soy Nestor! 👋</h1>
 
-## 📫 How to reach me
+Soy un apasionado desarrollador de software con amor por el desarrollo móvil. ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una colección de mis proyectos, contribuciones y algunos detalles sobre mi trayectoria en programación. 👾
+
+## 📫 Cómo contactarme
 
 - LinkedIn: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Nestor%20Sanchez-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-sanchez-51147a1ba/)
 - Email: [![Email Badge](https://img.shields.io/badge/Email-nestorduhamel18%40outlook.es-%23D14836?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:nestorduhamel18@outlook.es)
-<!--- Portfolio Website: [Your Portfolio Website](https://yourwebsite.com)-->
+<!--- Página Web del Portafolio: [Tu Página Web del Portafolio](https://tuwebsite.com)-->
 
-## 🔧 Technologies & Tools
+## 🔧 Tecnologías y Herramientas
 
-I'm proficient in a variety of programming languages and tools, including but not limited to:
+Soy competente en una variedad de lenguajes de programación y herramientas, incluyendo, pero no limitado a:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
 
-  <!-- Programming Languages -->
+  <!-- Lenguajes de Programación -->
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <h2>💻 Programming Languages</h2>
+    <h2>💻 Lenguajes de Programación</h2>
     <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
     <img src="https://img.shields.io/badge/Java-%23007396?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
     <img src="https://img.shields.io/badge/SQL-%23000000?style=flat-square&logo=postgresql&logoColor=white" alt="SQL Badge" />
@@ -31,9 +33,9 @@ I'm proficient in a variety of programming languages and tools, including but no
     <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge" />
   </div>
 
-  <!-- Tools -->
+  <!-- Herramientas -->
   <div style="display: flex; flex-direction: column; align-items: center; margin: 10px;">
-    <h2>⚙️ Tools</h2>
+    <h2>⚙️ Herramientas</h2>
     <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
     <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white" alt="Git Badge" />
     <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio Badge" />
@@ -43,31 +45,11 @@ I'm proficient in a variety of programming languages and tools, including but no
 
 </div>
 
+### Proyecto 2: Análisis de Sentimientos en Reseñas de Películas 📽️😄👀
 
-<!--
-## 💼 My Work
-
-### Project 1: FindApp 🗺️
-
-[![Alt text](https://img.youtube.com/vi/r0F0fz4JfRk/0.jpg)](https://www.youtube.com/watch?v=r0F0fz4JfRk)
-
-- Description: FindApp is designed so you can securely register your personal data, enjoy quick fingerprint access, obtain the location of a device and keep your loved ones informed in emergency situations.
-- Repository: [Link to Project 1 Repo](https://github.com/Nestor-DS/FindApp)
-- Technologies used:
-- 
-  [![Kotlin Badge](https://img.shields.io/badge/Kotlin-1.5.31-blue.svg)](https://kotlinlang.org/)
-  [![Android Badge](https://img.shields.io/badge/Android-10%2B-green.svg)](https://developer.android.com/)
-  [![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-4.2.2-orange.svg)](https://developer.android.com/studio)
-  [![GitHub Badge](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/)
-  [![Google Services Badge](https://img.shields.io/badge/Google%20Services-Latest-blue.svg)](https://developers.google.com/services)
-  [![Google Maps Badge](https://img.shields.io/badge/Google%20Maps-SDK-brightgreen.svg)](https://developers.google.com/maps)
--->
-
-### Project 2: Sentiment Analysis in Movie Reviews 📽️😄👀
-
-- Description: This project, "Sentiment Analysis in Movie Reviews" utilizes the "IMDB Dataset of 50K Movie Reviews" to perform various analyses on movie reviews. It covers tasks such as counting different types of words, finding the most common words, summarizing text, analyzing word frequency distributions, and identifying adjectives in both positive and negative reviews. Additionally, it explores the length distribution of reviews and provides graphical insights to understand language patterns and sentiment in movie opinions.
-- Repository: [Link to Project 2 Repo](https://github.com/Nestor-DS/Analisis-de-Sentimientos-en-criticas-de-peliculas)
-- Technologies used:
+- Descripción: Este proyecto, "Análisis de Sentimientos en Reseñas de Películas", utiliza el conjunto de datos "IMDB Dataset of 50K Movie Reviews" para realizar diversos análisis en reseñas de películas. Cubre tareas como contar diferentes tipos de palabras, encontrar las palabras más comunes, resumir texto, analizar distribuciones de frecuencia de palabras e identificar adjetivos en reseñas positivas y negativas. Además, explora la distribución de longitud de las reseñas y proporciona conocimientos gráficos para comprender los patrones de lenguaje y el sentimiento en las opiniones sobre películas.
+- Repositorio: [Enlace al Repo del Proyecto 2](https://github.com/Nestor-DS/Analisis-de-Sentimientos-en-criticas-de-peliculas)
+- Tecnologías utilizadas:
 
     [![Python Badge](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9-blue.svg)](https://www.python.org/)
     [![Jupyter Badge](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
@@ -77,28 +59,26 @@ I'm proficient in a variety of programming languages and tools, including but no
     [![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-3.4.3-orange.svg)](https://matplotlib.org/)
     [![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-0.24.2-yellowgreen.svg)](https://scikit-learn.org/stable/)
 
+¡Siéntete libre de explorar mis repositorios para ver más de mi trabajo!
 
-Feel free to explore my repositories to see more of my work!
+## 🌱 Actualmente estoy aprendiendo
 
-
-## 🌱 I'm Currently Learning
-
-I'm always eager to learn and stay updated with the latest technologies. Right now, I'm focusing on:
+Siempre estoy ansioso por aprender y mantenerme actualizado con las últimas tecnologías. En este momento, me estoy centrando en:
 
 - - ![Kotlin for Android Badge](https://img.shields.io/badge/Kotlin%20for%20Android-%230095D5?style=flat-square&logo=kotlin&logoColor=white)
 - - ![Next.js Badge](https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=next.js&logoColor=white)
 
-## 🤝 Let's Connect
+## 🤝 Conectemos
 
-I'm always open to collaboration and interesting projects. If you have an idea or just want to chat, feel free to reach out to me!
+Siempre estoy abierto a la colaboración y proyectos interesantes. ¡Si tienes una idea o simplemente quieres charlar, no dudes en contactarme!
 
-## 📊 GitHub Stats & 🌟 My Top Programming Languages
+## 📊 Estadísticas de GitHub y 🌟 Mis Principales Lenguajes de Programación
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nestor-DS&show_icons=true&theme=dark" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestor-DS&layout=compact&theme=dark" width="50%" />
 </div>
 
 
-<!-- Optional: Add more custom badges or sections here -->
+<!-- Opcional: Agrega más insignias personalizadas o secciones aquí -->
 
-<!-- You can use services like shields.io to create custom badges -->
+<!-- Puedes usar servicios como shields.io para crear insignias personalizadas -->
