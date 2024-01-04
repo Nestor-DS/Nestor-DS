@@ -1,5 +1,3 @@
-# Página de Link-Bio con Reflex
-
 <h1 align="center">¡Hola, soy Nestor! 👋</h1>
 
 Soy un apasionado desarrollador de software con amor por el desarrollo móvil. ¡Bienvenido a mi perfil de GitHub! Aquí encontrarás una colección de mis proyectos, contribuciones y algunos detalles sobre mi trayectoria en programación. 👾
