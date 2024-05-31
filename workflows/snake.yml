@@ -1,0 +1,33 @@
+name: Generate Snake Game
+
+on:
+  schedule: # Ejecutar cada 12 horas
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@master
+        with:
+          github_user_name: Nestor-DS
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Upload Snake
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake to the output branch
+        uses: ad-m/github-push-action@master
+        with:
+          branch: output
+          force: true
+          path: dist
