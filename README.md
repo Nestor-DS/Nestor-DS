@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! 👋</h1>
+<h1 align="center" style="font-size: 48px;">Hello There! 👋</h1>
 
 ###
 
@@ -8,18 +8,30 @@
 
 ###
 
-<br clear="both">
+<br clear="both" >
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+<div align="center" >
+    <a href="https://www.linkedin.com/in/nestor-duhamel-sanchez/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />  
+    </a>
+    <a href="https://x.com/nes_ds18" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    </a>
+    <a href="https://www.behance.net/nestorsanchez12" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+    </a>
+    <a href="mailto:nestorduhamel@outlook.es" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /> 
+    </a>
+  
+  
+  
+  
 </div>
 
 ###
 
-<h2 align="left">Technologies</h2>
+<h2 align="left" style="font-size: 30px">Technologies</h2>
 
 ###
 
@@ -40,16 +52,12 @@
 </div>
 
 ###
-
+----------------
+###
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nestor-DS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="220" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nestor-DS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="220" alt="languages graph" />
+  <br>
   <img src="https://streak-stats.demolab.com?user=Nestor-DS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Nestor-DS/Nestor-DS/output/snake.svg" alt="Snake animation" />
-
-###
