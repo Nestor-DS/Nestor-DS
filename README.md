@@ -1,5 +1,3 @@
-<h1 align="center" style="font-size: 48px;">Hello There! 👋</h1>
-
 ###
 
 <div align="center">
@@ -21,10 +19,6 @@
     <a href="mailto:nestorduhamel@outlook.es" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  /> 
     </a>
-  
-  
-  
-  
 </div>
 
 ###
@@ -41,19 +35,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
-----------------
-###
-<br clear="both">
+<p align="center">
+  <img src="https://github.com/Nestor-DS/Nestor-DS/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nestor-DS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="220" alt="languages graph" />
-  <br>
   <img src="https://streak-stats.demolab.com?user=Nestor-DS&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
